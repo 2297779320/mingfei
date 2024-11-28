@@ -18,11 +18,6 @@
  * 2018-06-14 Li XianJing <xianjimli@hotmail.com> created
  *
  */
-
-#include "base/g2d.h"
-#include "blend/soft_g2d.h"
-#include "blend/image_g2d.h"
-
 #ifdef WITH_G2D
 
 ret_t TK_WEAK g2d_fill_rect(bitmap_t* fb, const rect_t* dst, color_t c) {
