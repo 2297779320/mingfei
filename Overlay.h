@@ -287,7 +287,7 @@ E_StateCode MOChPrintMultiBannerInfo(UINT32 uiChId);
 
 E_StateCode OverlayManagerFleshBanners();
 
-
+/*????*/
 
 #ifdef __cplusplus
 }
